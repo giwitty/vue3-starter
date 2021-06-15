@@ -1,18 +1,19 @@
 # vue3-starter
 
-## 简介
-> 基本项目架构，基于 Vue3 + Typescript + Vuex4 + Vue-Router
->
+## Project setup
+```
+npm install
+```
 
-## 技术栈
-- Vue3
-- Typescript
-- Vuex4
-- Vue-Router
-- element-plus
-- axios
-- ...
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
+### Compiles and minifies for production
+```
+npm run build
+```
 
-## 注意事项
-- 引入组件添加".vue"后缀
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
